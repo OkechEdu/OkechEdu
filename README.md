@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @OkechEdu
 - 👀 I’m interested in ... | Open source projects of any magnitude.
 - 🌱 I’m currently learning ... | React Native and a continuous learner of Python/Django
-- 💞️ I’m looking to collaborate on ... | Python/Django projects | Mobile App Development | Game Development
+- 💞️ I’m looking to collaborate and work in ... | Python/Django projects | Mobile App Development | Game Development | Spring Boot | Java
 - 📫 How to reach me ... okechjobs@gmail.com
+- https://www.linkedin.com/in/okech-edward-30839128/
 
 <!---
 OkechEdu/OkechEdu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
